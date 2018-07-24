@@ -1,6 +1,8 @@
 ```
 cp src/constants/baseurl.js.sample src/constants/baseurl.js
 ```
+and edit it.
+
 # vuechat
 
 > A Vue.js project
